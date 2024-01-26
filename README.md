@@ -15,8 +15,8 @@ The project is organized as follows:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/text-classification-naive-bayes.git
-   cd text-classification-naive-bayes
+   https://github.com/saharshwadekar/Text-Classification.git
+   cd Text-Classification
    ```
 
 2. Install the required dependencies:
